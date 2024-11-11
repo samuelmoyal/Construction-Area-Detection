@@ -15,7 +15,7 @@ Our aim in this project is to classify satellite images into five categories:
 
 To solve this problem, we had to use several parameters that characterized an image. For the same image, we had parameters describing a polygon surrounding the area of interest, parameters describing the variance and mean intensity of each primary color, parameters describing the date and nature of each stage of construction, and more general parameters describing the environment in which the polygon was located.
 
-To solve this problem, we had to follow several steps. Firstly, the data had to be processed to make it usable. Then we carried out feature engineering to isolate the most important parameters and create new variables with greater meaning, which would allow us to better characterize the image. Finally, we reduced the size of the data and implemented several machine learning algorithms, which we tested using the cross-validation method to select the best one.
+Firstly, the data had to be processed to make it usable. Then we carried out feature engineering to isolate the most important parameters and create new variables with greater meaning, which would allow us to better characterize the image. Finally, we reduced the size of the data and implemented several machine learning algorithms, which we tested using the cross-validation method to select the best one.
 
 # Feature Engineering
 
