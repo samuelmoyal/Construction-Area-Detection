@@ -1,5 +1,10 @@
 # Construction_area_detection
 
+
+
+![Example Image](satellite1.png)
+![Example Image](satellite2.png)
+
 # Introduction
 Earth observation is one of the major challenges facing the space industry. From the environment to meteorology and defense, there are many applications for such data. However, the amount of data to be processed is phenomenal. Artificial intelligence appears to be a suitable tool for solving this problem. Such devices are already in place, revolutionizing the aerospace industry in both the public and private sectors. One example is Telespasio, which uses satellite data to detect oil slicks on the surface of the ocean and trace them back to the ship that caused them.
 
