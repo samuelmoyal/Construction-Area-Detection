@@ -78,14 +78,6 @@ We engineered features, reduced dimensionality, and compared multiple algorithms
 - Tune model hyperparameters via **grid search or gradient-based optimization**.  
 - Integrate CNN-based visual features for hybrid (image + metadata) learning.  
 
----
-
-## 🖼️ Example Predictions
-
-![Example Image](satellite1.png)
-![Example Image](satellite2.png)
-
----
 
 ## ✅ Summary
 
